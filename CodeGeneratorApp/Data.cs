@@ -8,6 +8,11 @@ namespace CodeGeneratorApp
 {
     class Data
     {
+        
+        public void GetInteger()
+        {
+            
+        }
 
     }
 }
