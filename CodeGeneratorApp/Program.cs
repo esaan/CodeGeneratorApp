@@ -15,6 +15,7 @@ namespace CodeGeneratorApp
             Console.WriteLine("added in  github console");
             Console.ReadLine();
             //update Forked version 
+          //updating from VS
         }
 
         static void Add()
