@@ -21,11 +21,8 @@ namespace CodeGeneratorApp
             string num1 = Console.ReadLine();
             string num2 = Console.ReadLine();
             int sum = int.Parse(num1) + int.Parse(num2);
-            Console.WriteLine(sum);
+            Console.WriteLine(sum + " is the sum");
             Console.ReadLine(); 
-            //commented 123
-            //santosh 
-            //ok
         }
     }
 }
