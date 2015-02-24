@@ -25,5 +25,12 @@ namespace CodeGeneratorApp
             Console.ReadLine();  
           //Add
         }
+
+        static void Sub()
+        {
+            string num1 = Console.ReadLine();
+            string num2 = Console.ReadLine();
+            int sub = int.Parse(num1) - int.Parse(num2);
+        }
     }
 }
