@@ -21,7 +21,7 @@ namespace CodeGeneratorApp
             string num1 = Console.ReadLine();
             string num2 = Console.ReadLine();
             int sum = int.Parse(num1) + int.Parse(num2);
-            Console.WriteLine(sum);
+            Console.WriteLine(sum); 
             Console.ReadLine(); 
           //Add
         }
